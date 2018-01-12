@@ -1,0 +1,15 @@
+current directory: /Users/lucaspinto/workspace/src/github.com/anynines/orange_test_app/vendor/cache/ruby/2.3.0/gems/bindex-0.5.0/ext/bindex
+/Users/lucaspinto/.rvm/rubies/ruby-2.3.1/bin/ruby -r ./siteconf20180112-43230-4810fk.rb extconf.rb
+creating Makefile
+
+current directory: /Users/lucaspinto/workspace/src/github.com/anynines/orange_test_app/vendor/cache/ruby/2.3.0/gems/bindex-0.5.0/ext/bindex
+make "DESTDIR=" clean
+
+current directory: /Users/lucaspinto/workspace/src/github.com/anynines/orange_test_app/vendor/cache/ruby/2.3.0/gems/bindex-0.5.0/ext/bindex
+make "DESTDIR="
+compiling cruby.c
+linking shared-object bindex/cruby.bundle
+
+current directory: /Users/lucaspinto/workspace/src/github.com/anynines/orange_test_app/vendor/cache/ruby/2.3.0/gems/bindex-0.5.0/ext/bindex
+make "DESTDIR=" install
+/usr/local/bin/ginstall -c -m 0755 cruby.bundle ./.gem.20180112-43230-10w9un2/bindex
